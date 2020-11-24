@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   push_swap.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: richardbrackswaide <richardbrackswaide@    +#+  +:+       +#+        */
+/*   By: dlongfel <dlongfel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/24 16:54:19 by richardbrac       #+#    #+#             */
-/*   Updated: 2020/11/24 16:54:19 by richardbrac      ###   ########.fr       */
+/*   Created: 2020/11/24 17:13:38 by dlongfel          #+#    #+#             */
+/*   Updated: 2020/11/24 17:13:39 by dlongfel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

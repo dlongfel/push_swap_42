@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_data.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: richardbrackswaide <richardbrackswaide@    +#+  +:+       +#+        */
+/*   By: dlongfel <dlongfel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/24 16:50:20 by richardbrac       #+#    #+#             */
-/*   Updated: 2020/11/24 16:50:20 by richardbrac      ###   ########.fr       */
+/*   Created: 2020/11/24 17:11:53 by dlongfel          #+#    #+#             */
+/*   Updated: 2020/11/24 17:11:53 by dlongfel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

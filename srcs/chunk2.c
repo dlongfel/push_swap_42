@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   chunk2.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: richardbrackswaide <richardbrackswaide@    +#+  +:+       +#+        */
+/*   By: dlongfel <dlongfel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/24 16:50:14 by richardbrac       #+#    #+#             */
-/*   Updated: 2020/11/24 16:50:15 by richardbrac      ###   ########.fr       */
+/*   Created: 2020/11/24 17:11:49 by dlongfel          #+#    #+#             */
+/*   Updated: 2020/11/24 17:11:49 by dlongfel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

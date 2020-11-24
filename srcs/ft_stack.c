@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_stack.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: richardbrackswaide <richardbrackswaide@    +#+  +:+       +#+        */
+/*   By: dlongfel <dlongfel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/24 16:51:10 by richardbrac       #+#    #+#             */
-/*   Updated: 2020/11/24 16:51:11 by richardbrac      ###   ########.fr       */
+/*   Created: 2020/11/24 17:12:33 by dlongfel          #+#    #+#             */
+/*   Updated: 2020/11/24 17:12:34 by dlongfel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

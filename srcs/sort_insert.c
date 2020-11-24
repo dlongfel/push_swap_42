@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   sort_insert.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: richardbrackswaide <richardbrackswaide@    +#+  +:+       +#+        */
+/*   By: dlongfel <dlongfel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/24 16:52:44 by richardbrac       #+#    #+#             */
-/*   Updated: 2020/11/24 16:52:45 by richardbrac      ###   ########.fr       */
+/*   Created: 2020/11/24 17:12:55 by dlongfel          #+#    #+#             */
+/*   Updated: 2020/11/24 17:12:55 by dlongfel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

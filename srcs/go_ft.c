@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   go_ft.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: richardbrackswaide <richardbrackswaide@    +#+  +:+       +#+        */
+/*   By: dlongfel <dlongfel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/24 16:51:46 by richardbrac       #+#    #+#             */
-/*   Updated: 2020/11/24 16:51:47 by richardbrac      ###   ########.fr       */
+/*   Created: 2020/11/24 17:12:47 by dlongfel          #+#    #+#             */
+/*   Updated: 2020/11/24 17:12:47 by dlongfel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

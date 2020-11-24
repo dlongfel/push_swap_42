@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   checker.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: richardbrackswaide <richardbrackswaide@    +#+  +:+       +#+        */
+/*   By: dlongfel <dlongfel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/24 16:49:39 by richardbrac       #+#    #+#             */
-/*   Updated: 2020/11/24 16:49:42 by richardbrac      ###   ########.fr       */
+/*   Created: 2020/11/24 17:11:41 by dlongfel          #+#    #+#             */
+/*   Updated: 2020/11/24 17:11:41 by dlongfel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
